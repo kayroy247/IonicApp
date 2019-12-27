@@ -1,0 +1,8 @@
+{
+  "appId": "com.learning.ionicapp",
+  "appName": "IonicApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
